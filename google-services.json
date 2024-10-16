@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650501071352",
+    "project_id": "mialo-gatebot-app",
+    "storage_bucket": "mialo-gatebot-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650501071352:android:10b7a942c1644d36d3360d",
+        "android_client_info": {
+          "package_name": "com.yugank_mialo1.GaurdApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7KGgtk2nLbNghn6UfeJZfZK2ARTXz8gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
